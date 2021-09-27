@@ -1,6 +1,6 @@
 # Bonjour cher visiteur 👋
 
-## 🤝 [Linkedin](https://www.linkedin.com/in/loetitia-rabier/) - 📧 [Mail](loe.rabier@gmail.com) - 🌐 [Site rabenco-datasciences](www.rabenco-datasciences.fr) 
+## 🤝 [Linkedin](https://www.linkedin.com/in/loetitia-rabier/) - 📧 [Mail](loe.rabier@gmail.com) - 🌐 [Site rabenco-datasciences](https://www.rabenco-datasciences.fr) 
 
 <!--
 **loedata/loedata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
