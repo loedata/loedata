@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 -->
 
-## Bienvenue sur le github de Rabenco-datasciences
+## Bienvenue sur le github de la deuxième collaboratrice de Rabenco-datasciences
 ![bannière_rabenco](https://user-images.githubusercontent.com/71134226/117308676-11a5eb80-ae82-11eb-8dad-94a241362229.gif)
 
 Vous disposez de __données brutes__ et vous souhaitez les transformer en __informations intelligibles et exploitables__ pour votre entreprise? 
