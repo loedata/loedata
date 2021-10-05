@@ -2,7 +2,7 @@
 
 ## Loetitia Rabier 🤝 [Linkedin](https://www.linkedin.com/in/loetitia-rabier/) - 📧 [Mail](mailto:loe.rabier@gmail.com?subject=[GitHub]%20Loetitia%20Rabier) - 🌐 [Site rabenco-datasciences](https://www.rabenco-datasciences.fr) - 💼 [Portefolio](https://loedata.github.io/portefolio/)
 
-## Christelle Troussard 🤝 [Linkedin](https://www.linkedin.com/in/christelle-troussard/) - 📧 [Mail](mailto:chrisrabenco@gmail.com?subject=[GitHub]%20Christelle%20Troussard) - 🌐 [Site rabenco-datasciences](https://www.rabenco-datasciences.fr){:target="_blank"}
+## Christelle Troussard 🤝 [Linkedin](https://www.linkedin.com/in/christelle-troussard/) - 📧 [Mail](mailto:chrisrabenco@gmail.com?subject=[GitHub]%20Christelle%20Troussard) - 🌐 [Site rabenco-datasciences](https://www.rabenco-datasciences.fr" target="_blank)
 
 <!--
 **loedata/loedata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
