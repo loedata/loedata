@@ -1,6 +1,6 @@
 # Bonjour cher visiteur 👋
 
-## Loetitia Rabier 🤝 [Linkedin](https://www.linkedin.com/in/loetitia-rabier/) - 📧 [Mail](mailto:loe.rabier@gmail.com?subject=[GitHub]%20Loetitia%20Rabier) - 🌐 [Site rabenco-datasciences](https://www.rabenco-datasciences.fr)
+## Loetitia Rabier 🤝 [Linkedin](https://www.linkedin.com/in/loetitia-rabier/) - 📧 [Mail](mailto:loe.rabier@gmail.com?subject=[GitHub]%20Loetitia%20Rabier) - 🌐 [Site rabenco-datasciences](https://www.rabenco-datasciences.fr) - 💼 [Portefolio](https://loedata.github.io/portefolio/)
 
 ## Christelle Troussard 🤝 [Linkedin](https://www.linkedin.com/in/christelle-troussard/) - 📧 [Mail](mailto:chrisrabenco@gmail.com?subject=[GitHub]%20Christelle%20Troussard) - 🌐 [Site rabenco-datasciences](https://www.rabenco-datasciences.fr) 
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on health projects
 - 🤔 I’m looking for help with SQL requests
 - 💬 Ask me about botanic and ornithology :))
-- 📫 How to reach me: chrisrabenco@gmail.com
+- emoji How to reach me: chrisrabenco@gmail.com
 
 -->
 
